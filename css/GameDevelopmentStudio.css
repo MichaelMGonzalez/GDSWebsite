@@ -70,6 +70,10 @@ div.item img{
 	width: auto;
 }
 
+h1.aboutheader {
+	font-family: 'Press Start 2P', cursive;
+}
+
 img.jumbo {
 	position: relative;
 	max-height: 100%;
